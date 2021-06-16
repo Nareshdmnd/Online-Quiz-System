@@ -112,7 +112,7 @@ class Northwindow extends JPanel{
         	setBorder(BorderFactory.createEtchedBorder() );
 	}
 }
-
+//
 /**
 **  Southwindow class
 **/
